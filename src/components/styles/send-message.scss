@@ -1,0 +1,22 @@
+.send-message{
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+    .send-message-inner{
+        display:flex;
+        align-items:center;
+        justify-content: space-between;
+        padding:10px 20px;
+        img{
+            margin:8px;
+        }
+        input{
+            margin:5px 10px;
+            padding:9px 12px 11px;
+            border-radius:20px;
+            width:80%;
+        }
+
+    }
+}

@@ -1,0 +1,53 @@
+.message-list{
+    height:100%;
+    .search-item{
+        padding:10px 0;
+        border-bottom:.5px solid #394044;
+        .search{
+            display:flex;
+            align-items:center;
+            padding:5px 10px;
+            margin:auto;
+            width:85%;
+            border-radius:18px;
+            img{
+                margin-right:35px;
+            }
+            input{
+                background:none;
+                outline:none;
+                border:none;
+            }
+        }
+    }
+    .item{
+        padding:0 2.5px 0 15px;
+        display:grid;
+        grid-template-columns:1fr 4fr;
+        align-items:center;
+        cursor:pointer;
+        .image{
+            width:50px;
+            height:50px;
+            border-radius:50px;
+        }
+        .text{
+            border-bottom:.5px solid #394044;
+            padding:15px 15px 15px 0;
+            .text-inner{
+                display:flex;
+                justify-content:space-between;
+                .bg-4{
+                    height:20.5px;
+                    min-width:11.5px;
+                    border-radius:20.5px;
+                    display:flex;
+                    align-items:center;
+                    padding:0 4.5px;
+                    justify-content:space-around;
+                    text-align:center;
+                }
+            }
+        }
+    }
+}
