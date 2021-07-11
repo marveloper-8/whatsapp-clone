@@ -2,6 +2,10 @@
 
 This project is hosted at [https://whatsapp-clone-marveloper.vercel.app/](https://whatsapp-clone-marveloper.vercel.app/).
 
+## Mobile Responsive?
+
+No. Will most definitely work on that so stay tuned!
+
 ## Available Scripts
 
 In the project directory, you can run:
