@@ -1,6 +1,6 @@
 # WhatsApp Web Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted at [https://whatsapp-clone-marveloper.vercel.app/](https://whatsapp-clone-marveloper.vercel.app/).
 
 ## Available Scripts
 
